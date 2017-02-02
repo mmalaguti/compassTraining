@@ -26,7 +26,7 @@ SECRET_KEY = '9%x9%fb*-x_l4q9*q@cbd0^-cqi49z4u&6ggl2y415aar=a)i-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['.compassTraining.com', '127.0.0.1']
+ALLOWED_HOSTS = ['.compassTraining.com', '127.0.0.1','.herokuapp.com']
 
 
 # Application definition
